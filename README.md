@@ -13,6 +13,7 @@
 | `runs/01-plan-and-trace.md` | 第一次 agent 計畫、輸入與執行紀錄 |
 | `runs/02-revision.md` | 第一輪審閱後的修訂紀錄 |
 | `runs/03-review-and-preview.md` | 第二輪審閱與本機預覽紀錄 |
+| `runs/04-github-publication.md` | GitHub 發布紀錄 |
 | `review-01.md` | 第一輪的五項決定 |
 | `review-02.md` | 需求規格與 UML 審閱結果 |
 | `review-03.md` | 報告、簡報與 GitHub 發布決定 |
